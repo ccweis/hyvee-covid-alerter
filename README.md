@@ -9,6 +9,7 @@ Email notifications for HyVee Pharmacy COVID Vaccine Availability
 ## Instructions
 * Download the python script
 * Edit the email address and polling interval variables
+* Run
 
 ## Notes
 * Currently only looks at HyVee stores withing 120 miles of Eastern Iowa - future tweak will support other locations and radiuses
