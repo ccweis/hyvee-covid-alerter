@@ -15,7 +15,7 @@ polling_interval_in_seconds = 60
 
 
 ################
-# DO NOT EDIT
+# DO NOT EDIT BELOW HERE
 ################
 url = 'https://www.hy-vee.com/my-pharmacy/api/graphql'
 headers = {'content-type': 'application/json'}
